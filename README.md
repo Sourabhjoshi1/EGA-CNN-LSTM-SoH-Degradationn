@@ -1,1 +1,1 @@
-# EGA-CNN-LSTM-SoH-Degradationn
+# EGA-CNN-LSTM-SoH-Degradation
